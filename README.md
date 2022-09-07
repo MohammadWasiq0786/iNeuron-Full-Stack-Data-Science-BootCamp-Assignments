@@ -7,6 +7,6 @@ Here I have uploaded iNeuron Data Science BootCamp Assignments
 
 3. [**Python Advance Assignments**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Assignments/tree/main/3.%20Python%20Advance%20Assignment)
 
-3.2. [**Python Advance Programming Assignments**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Assignments/tree/main/3.2%20Python%20Advance%20Programming%20Assignment)
+4. [**Python Advance Programming Assignments**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Assignments/tree/main/3.2%20Python%20Advance%20Programming%20Assignment)
 
-4. [**Machine Learning Assignment**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Assignments/tree/main/4.%20Machine%20Learning%20Assignment)
+5. [**Machine Learning Assignment**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Assignments/tree/main/4.%20Machine%20Learning%20Assignment)
