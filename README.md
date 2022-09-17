@@ -28,12 +28,12 @@ Here I have uploaded iNeuron Data Science BootCamp Assignments
 | 1\.         | **Python Basics**                       | **25 / 25**                 |
 | 2\.         | **Python Programming Basic Assignment** | **25 / 25**                 |
 | 3\.         | **Python Advanced**                     | **25 / 25**                 |
-| 4\.         | **ML Assignment**                       | **24 /   **                 |
-| 5\.         | **DL Theory**                           | **16 /   **                 |
-| 6\.         | **DL Practical Assignment**             | **25 /   **                 |
-| 7\.         | **CV Assignment**                       | **12 /   **                 |
-| 8\.         | **NLP Assignment**                      | **7 /   **                  |
-| 9\.         | **DSAR**                                | **13 /   **                 |
-| 10\.        | **DSAR Assignment**                     | **3 /   **                  |
+| 4\.         | **ML Assignment**                       | **24 / 00**                 |
+| 5\.         | **DL Theory**                           | **16 / 00**                 |
+| 6\.         | **DL Practical Assignment**             | **25 / 00**                 |
+| 7\.         | **CV Assignment**                       | **12 / 00**                 |
+| 8\.         | **NLP Assignment**                      | **07 / 00**                 |
+| 9\.         | **DSAR**                                | **13 / 00**                 |
+| 10\.        | **DSAR Assignment**                     | **03 / 00**                 |
 
 **Total Assignments : 175** 
