@@ -40,4 +40,4 @@ Here I have uploaded iNeuron Data Science BootCamp Assignments
 | 9\.         | **[DSAR]**                                                                  | **13 / 00**                 |
 | 10\.        | **[DSAR Assignment]**                                                       | **03 / 03**                 |
 
-**Total Assignments : 175** 
+**Total Assignments : 162 / 175** 
