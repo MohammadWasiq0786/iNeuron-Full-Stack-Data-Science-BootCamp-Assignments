@@ -4,40 +4,20 @@
 
 Here I have uploaded iNeuron Data Science BootCamp Assignments
 
-1. [**Basic Python**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Assignments/tree/main/1.%20Basic%20Python)
-
-2. [**Python Programming Basic Assignments**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Assignments/tree/main/2.%20Python%20Programming%20Basic%20Assignment)
-
-3. [**Python Advance Assignments**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Assignments/tree/main/3.%20Python%20Advance%20Assignment)
-
-4. [**Python Advance Programming Assignments**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Assignments/tree/main/3.2%20Python%20Advance%20Programming%20Assignment)
-
-5. [**Machine Learning Assignment**](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Assignments/tree/main/4.%20Machine%20Learning%20Assignment)
-
-6. **DL Practical Assignment** 
-
-7. **CV Assignment**          
-
-8. **NLP Assignment**                   
-
-9. **DSAR**                              
-
-10. **DSAR Assignment**
-
 ## List of Assignments to Submit
 
 | **Sr. No.** | **Topics**                                                                  | **No. of Assignments**      |
 |-------------|-----------------------------------------------------------------------------|-----------------------------|
-| 1\.         | **[Python Basics Assignment](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Assignments/tree/main/1.%20Basic%20Python)**                                                | **25 / 25**                 |
+| 1\.         | **[Python Basics Assignment](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Assignments/tree/main/1.%20Basic%20Python)**                                                                                             | **25 / 25**                 |
 | 2\.         | **[Python Programming Basic Assignment](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Assignments/tree/main/2.%20Python%20Programming%20Basic%20Assignment)**                     | **25 / 25**                 |
 | 3.1\.         | **[Python Advance Assignments](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Assignments/tree/main/3.%20Python%20Advance%20Assignment)**                                 | **25 / 25**                 |
 | 3.2\.         | **[Python Advance Programming Assignments](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Assignments/tree/main/3.2%20Python%20Advance%20Programming%20Assignment)**                  | **25 / 25**                 |
 | 4\.         | **[Machine Learning Assignment](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Assignments/tree/main/4.%20Machine%20Learning%20Assignment)**                               | **24 / 24**                 |
 | 5\.         | **[Deep Learning Theory Assignment](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Assignments/tree/main/5.%20DL%20Theory%20Assignment)**                                      | **16 / 16**                 |
-| 6\.         | **[Deep Learning Practical Assignment](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Assignments/tree/main/6.%20DL%20Practical%20Assignment)**                                    | **01 / 25**                 |
-| 7\.         | **[Computer Vision Assignment](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Assignments/tree/main/7.%20CV%20Assignment)**                                                | **11 / 12**                 |
+| 6\.         | **[Deep Learning Practical Assignment](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Assignments/tree/main/6.%20DL%20Practical%20Assignment)**                                   | **01 / 25**                 |
+| 7\.         | **[Computer Vision Assignment](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Assignments/tree/main/7.%20CV%20Assignment)**                                               | **11 / 12**                 |
 | 8\.         | **[Natural Language Processing Assignment](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Assignments/tree/main/8.%20NLP%20Assignment)**                                              | **07 / 07**                 |
-| 9\.         | **[DSAR]**                                                                  | **13 / 00**                 |
-| 10\.        | **[DSAR Assignment](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Assignments/tree/main/10.%20DSAR%20Assignment)**                                                                                               | **03 / 03**                 |
+| 9\.         | **[DSAR]()**                                                                | **13 / 00**                 |
+| 10\.        | **[DSAR Assignment](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Assignments/tree/main/10.%20DSAR%20Assignment)**                                                                                                 | **03 / 03**                 |
 
 **Total Assignments : 162 / 175** 
