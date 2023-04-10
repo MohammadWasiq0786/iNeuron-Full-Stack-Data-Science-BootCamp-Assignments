@@ -21,3 +21,5 @@ Here I have uploaded iNeuron Data Science BootCamp Assignments
 | 10\.        | **[DSAR Assignment](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Assignments/tree/main/10.%20DSAR%20Assignment)**                                                                                                 | **03 / 03**                 |
 
 **Total Assignments : 162 / 175** 
+
+![Cerificate](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Assignments/blob/main/Certificate/iNeuron%20FSDS%20BootCamp%20Completion%20Certificate.png)
