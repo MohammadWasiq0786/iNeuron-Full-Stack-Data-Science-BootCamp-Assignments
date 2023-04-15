@@ -8,7 +8,7 @@ Here I have uploaded iNeuron Data Science BootCamp Assignments
 
 | **Sr. No.** | **Topics**                                                                  | **No. of Assignments**      |
 |-------------|-----------------------------------------------------------------------------|-----------------------------|
-| 1\.         | **[Python Basics Assignment](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Assignments/tree/main/1.%20Basic%20Python)**                                                                                             | **25 / 25**                 |
+| 1\.         | **[Python Basics Assignment](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Assignments/tree/main/1.%20Basic%20Python)**                                                | **25 / 25**                 |
 | 2\.         | **[Python Programming Basic Assignment](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Assignments/tree/main/2.%20Python%20Programming%20Basic%20Assignment)**                     | **25 / 25**                 |
 | 3.1\.         | **[Python Advance Assignments](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Assignments/tree/main/3.%20Python%20Advance%20Assignment)**                                 | **25 / 25**                 |
 | 3.2\.         | **[Python Advance Programming Assignments](https://github.com/MohammadWasiq0786/iNeuron-Full-Stack-Data-Science-BootCamp-Assignments/tree/main/3.2%20Python%20Advance%20Programming%20Assignment)**                  | **25 / 25**                 |
