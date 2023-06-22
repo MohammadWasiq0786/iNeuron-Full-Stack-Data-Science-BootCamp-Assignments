@@ -2,6 +2,9 @@
 
 ![image](https://user-images.githubusercontent.com/57321948/196933065-4b16c235-f3b9-4391-9cfe-4affcec87c35.png)
 
+### Name : `Mohammad Wasiq`
+### Batch Number : `DSB177`
+
 Here I have uploaded iNeuron Data Science BootCamp Assignments
 
 ## List of Assignments to Submit
